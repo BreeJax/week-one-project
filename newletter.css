@@ -1,0 +1,15 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url(../project-images/background-2.jpg);
+}
+
+nav {
+  background-color: #FFFFFF;
+  text-transform: uppercase;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+}
