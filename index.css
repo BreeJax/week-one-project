@@ -8,12 +8,13 @@ body {
   background-color: #FFFFFF;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 #site_header img {
   height: 40px;
   margin-top: 10px;
   margin-bottom: 10px;
+  padding-left: 10px;
 }
 
 nav {
@@ -21,9 +22,9 @@ nav {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  padding-right: 30%;
+  width: 100%;
 }
 nav a {
-  padding-right: 50px;
+  padding-right: 80px;
   color: #2B2F26;
 }
