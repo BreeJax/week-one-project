@@ -3,6 +3,7 @@ body {
   padding: 0px;
   font-family: 'Merriweather', serif;
   font-family: 'Roboto', sans-serif;
+  background-color: #C8A2C8;
 }
 #site_header {
   background-color: #FFFFFF;
@@ -27,4 +28,13 @@ nav {
 nav a {
   padding-right: 80px;
   color: #2B2F26;
+}
+#site-footer {
+  background-color: orange;
+  color: red;
+  padding-left: 1em;
+  font-size: 130%;
+  display: flex;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
 }
