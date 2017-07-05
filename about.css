@@ -106,3 +106,9 @@ body > div.pleasefloat {
   width: 10em;
   height: 10em;
 }
+
+blockquote {
+  width: 50%;
+  border-left: solid #131511;
+  padding-left: 1em;
+}
