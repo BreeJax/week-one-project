@@ -30,6 +30,9 @@ nav {
   justify-content: center;
   width: 100%;
 }
+a {
+  color: #967343;
+}
 nav a {
   padding-right: 80px;
   color: #2B2F26;
@@ -44,8 +47,8 @@ td{
   border: 1px solid black;
   font-size: 120%;
   padding-top: 0.25em;
-  padding-bottom: 0.25em;
   padding-left: 0.5em;
+  padding-bottom: 0.25em;
   padding-right: 0.5em;
   text-align: center;
 }
