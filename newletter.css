@@ -61,4 +61,5 @@ h1, h2, #nameInput, #emailInput {
   padding: 15px 30px;
   border: none;
   min-height: 2em;
+  border-radius: 0.5em;
 }
